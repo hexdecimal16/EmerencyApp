@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmergencyApp</string>
+    <string-array name="duration">
+        <item>Select duration</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>45 minutes</item>
+        <item>1 hour</item>
+    </string-array>
+</resources>
